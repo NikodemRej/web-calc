@@ -1,1 +1,2 @@
-# web-calc
+Kalkulator WWW
+Obsługuje podstawowe funkcje kalkulatora
